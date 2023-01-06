@@ -348,8 +348,8 @@ footer {
     /*Responsive Menu*/
     .small_menu{
         display: flex;
-        width: 25px;
-        height: 25px;
+        width: 100vw;
+        height: 100vh;
         align-items: center;
         justify-content: space-between;
         overflow: hidden;
