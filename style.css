@@ -13,6 +13,7 @@ a {
 
 body ,html{
     background-color: rgb(14, 17, 17);
+   
 }
 
 /*Scrollbar CSS**/
@@ -400,7 +401,7 @@ footer {
         left: 0;
         background-color: rgba(6 16 129 /0.9);
         flex-direction: column;
-        width: 100%;
+        width: 90%;
 
     }
     header .menu.small li {
