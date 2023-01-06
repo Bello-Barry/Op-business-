@@ -18,7 +18,7 @@ body ,html{
 
 /*Scrollbar CSS**/
 ::-webkit-scrollbar {
-    width: 8px;
+    width: 0px;
 }
 ::-webkit-scrollbar-thumb {
     background-color: #4f4f4f;
@@ -278,7 +278,7 @@ footer {
     display: none;
 }
 /*Mobile Responsive*/
-@media (max-width:628px) {
+@media (max-width:600px) {
     header .logo h1 {
         font-size: 15px;
     }
