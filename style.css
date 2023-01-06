@@ -216,14 +216,14 @@ section {
 .list_about {
     display: flex;
     align-items: center;
-    margin-bottom: 20px;
+    margin-bottom: 4px;
 }
 .list_about  h1 {
     font-size: 110px;
     color: #79BC23;
 }
 .list_about .description {
-    margin-left: 2px;
+    margin-left: 0px;
 }
 .list_about .description h3 {
     color: white;
@@ -272,7 +272,7 @@ footer {
     color: #fff;
     text-align: center;
     font-size: 14px;
-    padding: 10px;
+    padding: 5px;
 }
 .small_menu {
     display: none;
