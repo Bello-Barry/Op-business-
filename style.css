@@ -13,7 +13,7 @@ a {
 
 body ,html{
     background-color: rgb(14, 17, 17);
-    Width: 100%;
+    
 }
 
 /*Scrollbar CSS**/
@@ -223,11 +223,11 @@ section {
     color: #79BC23;
 }
 .list_about .description {
-    margin-left: 5px;
+    margin-left: 2px;
 }
 .list_about .description h3 {
     color: white;
-    margin-bottom: 5px;
+    margin-bottom: 2px;
     text-transform: uppercase;
 }
 .list_about .description p {
