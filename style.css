@@ -216,7 +216,7 @@ section {
 .list_about {
     display: flex;
     align-items: center;
-    margin-bottom: 4px;
+    margin-bottom: 2px;
 }
 .list_about  h1 {
     font-size: 110px;
@@ -272,7 +272,7 @@ footer {
     color: #fff;
     text-align: center;
     font-size: 14px;
-    padding: 5px;
+    padding: 0px;
 }
 .small_menu {
     display: none;
