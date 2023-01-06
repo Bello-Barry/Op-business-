@@ -2,7 +2,7 @@
 *{
     margin: 0;
     padding: 0;
-    
+    box-sizing: border-box;
     font-family: 'Rubik', sans-serif;
 }
 a {
@@ -223,7 +223,7 @@ section {
     color: #79BC23;
 }
 .list_about .description {
-    margin-left: 20px;
+    margin-left: 10px;
 }
 .list_about .description h3 {
     color: white;
