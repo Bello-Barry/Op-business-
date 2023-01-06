@@ -223,11 +223,11 @@ section {
     color: #79BC23;
 }
 .list_about .description {
-    margin-left: 10px;
+    margin-left: 5px;
 }
 .list_about .description h3 {
     color: white;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     text-transform: uppercase;
 }
 .list_about .description p {
