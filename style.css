@@ -348,8 +348,8 @@ footer {
     /*Responsive Menu*/
     .small_menu{
         display: flex;
-        width: 100vw;
-        height: 100vh;
+        width: 25px;
+        height: 25px;
         align-items: center;
         justify-content: space-between;
         overflow: hidden;
@@ -365,7 +365,7 @@ footer {
         transition: 0.5s;
     }
     .small_menu span div {
-        height: 11px;
+        height: 100px;
         width: 11px;
         background-color: #1506f2;
         border-radius: 0px;
@@ -377,17 +377,17 @@ footer {
     .small_menu.active span:nth-child(1){
         display: none;
     }
-    .small_menu.active span {
+.small_menu.active span {
         display: flex;
         flex-direction: unset;
-        height: 100%;
+        height: 90%;
         align-items: center;
         justify-content: center;
         transition: 0.5s;
     }
     .small_menu.active span div {
-        height: 100%;
-        width: 3px;
+        height: 100px;
+        width: 10px;
         border-radius: 6px;
         transition: 0.5s;
     }
@@ -404,13 +404,21 @@ footer {
         left: 0;
         background-color: rgba(6 16 129 /0.9);
         flex-direction: column;
-        width: 70%;
+        width: 100%;
+        height: 100%;
+        color: #ffffff ;
 
     }
     header .menu.small li {
         margin: 15px 0;
+        color: #ffffff ;
     }
+    header .menu.small li a {
 
+        
+
+        color: #ffffff ;
+    }
 
 
 
